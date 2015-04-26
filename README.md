@@ -12,7 +12,7 @@ in it.
 
 ###run_analysis.R
 run_analysis.R is an R-script file that contains code that produces a tidy 
-dataset from the raw data (""UCI HAR Dataset") given in peer review assignment
+dataset from the raw data ("UCI HAR Dataset") given in peer review assignment
 for Clean Data course of Data Science specialization at Coursera.org
 run_analysis also includes a brief explanation for some of the lines of the code.
 Product of this R-script is the tidy_Acman.txt
