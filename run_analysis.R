@@ -1,4 +1,3 @@
-setwd("d:/Mislav/Data Science spec/3_CleanData/project/")
 #features vector will be used later for labeling columns in X_test files
 features <-  read.table("./UCI HAR Dataset/features.txt", 
                         stringsAsFactors=FALSE)
